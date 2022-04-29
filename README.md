@@ -1,2 +1,2 @@
-# CarCollisionAI
-A simple car AI that learns to avoid obstacles after trying different combinations.
+# simple-AI-car
+a simple AI car that learns to navigate by trial and error
